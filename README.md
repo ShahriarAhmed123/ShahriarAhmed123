@@ -19,18 +19,18 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I am a **Data Scientist** and **Machine Learning Professional** with **1 year of experience**, passionate about transforming raw data into meaningful insights and building intelligent solutions.  
 
-- 🔬 Skilled in **Machine Learning & Data Analytics**  
-- ⚡ Exploring **AI-powered tools** for smarter decision-making  
-- 🌍 Based in **Netrokona, Bangladesh**  
-- ✈️ Open to opportunities in **UAE, USA, Saudi Arabia, Canada, UK, Germany**  
+-  Skilled in **Machine Learning & Data Analytics**  
+-  Exploring **AI-powered tools** for smarter decision-making  
+-  Based in **Netrokona, Bangladesh**  
+-  Open to opportunities in **UAE, USA, Saudi Arabia, Canada, UK, Germany**  
 
 ---
 
-## 🚀 Current Focus  
+##  Current Focus  
 
 - Developing **AI-driven analytics workflows**  
 - Exploring **cloud platforms** for scalable ML solutions  
