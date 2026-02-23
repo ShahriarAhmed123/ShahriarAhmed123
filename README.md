@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/shahriar-ahmmed-shanto-b697233a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shahriar-yourusername" target="_blank">
+  <a href="https://shahriarahmed123.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@ShariarAhmedShanto" target="_blank">
@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
 
 ##  About Me  
 
