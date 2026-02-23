@@ -25,7 +25,7 @@ I am a **Data Scientist** and **Machine Learning Professional** with **1 year of
 
 -  Skilled in **Machine Learning & Data Analytics**  
 -  Exploring **AI-powered tools** for smarter decision-making  
--  Based in **Netrokona, Bangladesh**  
+-  Based in **Dhaka, Bangladesh**  
 -  Open to opportunities in **UAE, USA, Saudi Arabia, Canada, UK, Germany**  
 
 ---
